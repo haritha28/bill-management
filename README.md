@@ -1,3 +1,3 @@
 bill-management
 ===============
-Electricity Bill Management Sysatem using PHP and JScript
+Electricity Bill Management System as part of DBMS school project.
